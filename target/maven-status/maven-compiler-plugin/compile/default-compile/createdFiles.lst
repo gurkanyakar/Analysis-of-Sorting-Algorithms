@@ -1,0 +1,8 @@
+com\mycompany\algorithmdesign\Test.class
+com\mycompany\algorithmdesign\SelectionSort.class
+com\mycompany\algorithmdesign\InsertionSort.class
+com\mycompany\algorithmdesign\Utils.class
+com\mycompany\algorithmdesign\HeapSort.class
+com\mycompany\algorithmdesign\QuickSortHoare.class
+com\mycompany\algorithmdesign\MergeSort.class
+com\mycompany\algorithmdesign\QuickSortLomuto.class
